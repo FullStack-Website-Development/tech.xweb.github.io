@@ -1,7 +1,10 @@
-TECH.X WEBSITE
+# TECH.X WEBSITE
 
-Live Demo: https://mahn-bonnie.github.io/tech.xweb.github.io/
+# Live Demo: 
+ - [here](https://mahn-bonnie.github.io/tech.xweb.github.io/)
 
-It's a website for tech gurus to make things easy for you 
+# Description
 
-Created using HTML, CSS and JS
+ - It's a website for tech starters like new programmers to get things easy for them
+ - Created using HTML, CSS and JS
+ - Responsive on all devices
